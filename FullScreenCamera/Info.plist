@@ -20,6 +20,10 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>JHCam uses the camera to take photos and videos</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>JHCam saves captured photos and videos to your photo library </string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
